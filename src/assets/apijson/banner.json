@@ -1,0 +1,37 @@
+{
+    "code": 0,
+    "msg": "",
+    "data": [
+        {
+            "id": 8789,
+            "title": "1126-虐文后妈-呆呆",
+            "img": "https://i0.hdslb.com/bfs/manga-static/27045919d7b684ffeb22d4cf351909f3ac57fa85.jpg",
+            "jump_type": 2,
+            "jump_value": "bilicomic://reader/32082/857569?checkHistory=1",
+            "img2": "https://i0.hdslb.com/bfs/manga-static/27045919d7b684ffeb22d4cf351909f3ac57fa85.jpg",
+            "bg": "#D37DCD"
+        },
+        {
+            "id": 8780,
+            "title": "1127-日漫折扣活动-黑桃",
+            "img": "https://i0.hdslb.com/bfs/manga-static/0df6b7730e5f6b9562c65b392e5c6495549055fd.jpg",
+            "jump_type": 3,
+            "jump_value": "https://www.bilibili.com/blackboard/manga/activity-tmXjgexeQl.html",
+            "img2": "https://i0.hdslb.com/bfs/manga-static/0df6b7730e5f6b9562c65b392e5c6495549055fd.jpg",
+            "bg": "#FF4159"
+        },
+        {
+            "id": 1359,
+            "title": "h5新人活动",
+            "img": "https://i0.hdslb.com/bfs/manga-static/0c3d78f7586923e5489a0a75b8d3c153e920ee73.jpg",
+            "jump_type": 3,
+            "jump_value": "https://www.bilibili.com/blackboard/topic/activity-DV0vJBs_.html",
+            "img2": "https://i0.hdslb.com/bfs/manga-static/0c3d78f7586923e5489a0a75b8d3c153e920ee73.jpg",
+            "bg": "#C80600"
+        }
+    ]
+}
+
+
+
+

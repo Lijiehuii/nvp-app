@@ -1,0 +1,51 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .user-data {
+        @apply w-10 flex flex-col justify-between items-center text-sm text-gray-400
+    }
+
+    .user-data-count {
+        @apply text-base font-bold text-black
+    }
+
+    .un-follow {
+        @apply text-white bg-follow w-16 h-6 flex justify-center items-center rounded-full text-xs
+    }
+
+    .on-loading,
+    .ticpshow {
+        @apply absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2
+    }
+
+    .keyword-title {
+        @apply flex justify-between h-10 text-base items-center
+    }
+
+    .ticps-title {
+        @apply pl-2.5 pr-2.5 mb-2.5
+    }
+
+    .ticp-list {
+        @apply flex flex-wrap text-xs
+    }
+
+    .ticp-list-item {
+        @apply p-list-item mt-3 ml-2 mr-2 bg-gray-200 text-black font-bold rounded-md
+    }
+
+    .pannel-item {
+        @apply flex flex-col justify-around items-center py-2.5 text-base
+    }
+
+    .pannel-list {
+        @apply flex justify-between items-center text-base px-2.5 leading-10
+    }
+
+    .follow-btn {
+        @apply w-16 h-7 flex justify-center items-center rounded-full text-xs text-gray-400 bg-gray-200
+    }
+}
